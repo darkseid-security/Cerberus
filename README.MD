@@ -1,4 +1,4 @@
-<img src="https://github.com/darkseid-security/Cerberus/blob/main/Screenshots/cerberus.jpg">
+<img src="https://github.com/darkseid-security/Cerberus/blob/main/Screenshots/smb_brute.png" width="500">
 Cerberus is a advanced SMB Security Toolkit
 ===============================================<br>
 Version 1.2
